@@ -1,0 +1,17 @@
+# Compiled executable files
+*
+
+# Keep C source files
+!*.c
+
+# Keep text files
+!*.txt
+
+# Keep .gitignore
+!.gitignore
+
+# Ignore Vim temporary files
+*.swp
+
+# Ignore backup files
+*.save
